@@ -9,12 +9,12 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog Posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
+    folder: "/content/post" # The path to the folder where the documents are stored
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "TLDR", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
