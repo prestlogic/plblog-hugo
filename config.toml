@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://blog.prestigelogic.com"
 languageCode = "en-gb"
 title = "Prestige Logic Blog"
 theme = "blackburn"
