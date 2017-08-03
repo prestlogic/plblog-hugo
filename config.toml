@@ -9,6 +9,8 @@ copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 
+enableEmoji = true
+
 [indexes]
   tag = "tags"
   topic = "topics"
