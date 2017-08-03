@@ -1,6 +1,6 @@
 baseURL = "https://blog.prestigelogic.com"
 languageCode = "en-us"
-title = "Prestige Logic Blog"
+title = "Prestige Logic Guides"
 theme = "blackburn"
 
 author = "Prestige Logic"
