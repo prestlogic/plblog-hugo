@@ -17,7 +17,7 @@ enableEmoji = true
 
 [params]
   # Shown in the home page
-  subtitle = "A tech blog for real people"
+  subtitle = "Tech guides from the techies themselves"
   brand = "Prestige Logic Ltd."
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
