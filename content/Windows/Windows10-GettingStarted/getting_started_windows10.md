@@ -1,6 +1,7 @@
 +++
 title = "Getting started with Windows 10"
 chapter = true
+draft = true
 +++
 
 ### Overview
