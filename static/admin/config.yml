@@ -19,7 +19,6 @@ collections:
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-collections:
   - name: "windows" # Used in routes, e.g., /admin/collections/blog
     label: "Windows Guides" # Used in the UI
     folder: "/content/Windows" # The path to the folder where the documents are stored
