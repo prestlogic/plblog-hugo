@@ -8,7 +8,12 @@ title = "Prestige Logic Guides"
 
 ##### Here, we will have a big collection of **free** guides on how to get your stuff working exactly as you want it!
 
-Leave a message for us if you have a request for a guide!
+----
+
+**This site is currently in it's early stages!** 
+
+
+We're currently working hard to come up with every kind of guide you can ever need, But some things may be missing. Please feel free to leave us a message and request a guide and we'll get right on it!
 
 <form name="contact" action="thank-you" netlify>
   <p>
