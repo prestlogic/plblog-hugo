@@ -1,5 +1,6 @@
 +++
 title = "Linux"
+draft = true
 +++
 
 ### Linux Guides

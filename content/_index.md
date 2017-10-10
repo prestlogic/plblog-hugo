@@ -10,10 +10,10 @@ title = "Prestige Logic Guides"
 
 ----
 
-**This site is currently in it's early stages!** 
+**This site is currently in it's early stages!**
 
 
-We're currently working hard to come up with every kind of guide you can ever need, But some things may be missing. Please feel free to leave us a message and request a guide and we'll get right on it!
+We're currently working hard to come up with every kind of guide you can ever need, But some things may be missing. Please feel free to leave us a message or request a guide and we'll get right on it!
 
 <form name="contact" action="thank-you" netlify>
   <p>
